@@ -1,0 +1,35 @@
+_repo: Desert-and-water-gardens-of-the-Red-Sea-b-Being-an-account-of-the-natives-and-the-shore-forma__71230
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Crossland, Cyril
+    birthdate: 1878
+    deathdate: 1943
+    gutenberg_agent_id: '56133'
+    url: http://www.gutenberg.org/2009/agents/56133
+    wikipedia: https://en.wikipedia.org/wiki/Cyril_Crossland
+description: ''
+gutenberg_issued: '2023-07-20'
+identifiers:
+  gutenberg: '71230'
+  lccn: '14006211'
+language: en
+pgterms:marc904: https://archive.org/details/desertwatergarde00crosuoft
+pgterms:marc905: 20230712234006crossland
+pgterms:marc906: '1913'
+pgterms:marc907: GB
+production_note: Galo Flordelis (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: '  $aUnited Kingdom :$bCambridge University Press, $c1913.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Coral reefs and islands'
+- !lcsh 'Red Sea'
+- !lcsh 'Sudan -- Social life and customs'
+- !lcc 'DT'
+- GITenberg
+title: 'Desert and water gardens of the Red Sea : $b Being an account of the natives
+  and the shore formations of the coast'
+url: http://www.gutenberg.org/ebooks/71230
